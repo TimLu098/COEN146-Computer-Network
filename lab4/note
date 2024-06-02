@@ -1,0 +1,5 @@
+connect to UDP
+
+after connected, send file from client to server, 
+
+and copy file in the server to a dst file in the server. 
